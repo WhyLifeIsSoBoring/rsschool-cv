@@ -14,3 +14,10 @@ I have some experience in Android Develop and i want to develop in this directio
 * C++ 
 * Git basics
 * Matlab
+## **Code examples**
+You can find my code examples in my [github account](https://github.com/WhyLifeIsSoBoring).
+## **Experience**
+* C++ and Java labs in university
+* Projects from the [Android Development course](https://www.udemy.com/course/android-kak-po-notam-a/)
+
+
