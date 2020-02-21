@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://WhyLifeIsSoBoring.github.io/rsschool-cv/cv
